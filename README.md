@@ -1,4 +1,4 @@
-![Alt text](commitmonk.png)
+<img title="Commitmonk" src="commitmonk.png" width=180">
 
 # Commitmonk 
 
