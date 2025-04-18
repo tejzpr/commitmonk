@@ -6,7 +6,7 @@
 
 # Commitmonk 
 
-Commitmonk is an automated Git commit tool that helps you maintain a clean commit history by automatically committing changes at specified intervals. It can use OpenAI or compatible LLM APIs to generate meaningful commit messages based on the changes.
+Commitmonk is an automated AI powered Git commit tool that helps you maintain a clean commit history by automatically committing changes at specified intervals. It can use OpenAI or compatible LLM APIs to generate meaningful commit messages based on the changes.
 
 ## Features
 
