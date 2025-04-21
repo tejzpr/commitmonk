@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://ollama.com">
     <img alt="Commitmonk" height="200px" src="./commitmonk.png">
-  </a>
 </div>
 
 # Commitmonk 
